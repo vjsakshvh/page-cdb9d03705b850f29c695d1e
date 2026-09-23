@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "eb1edfc658ceac8767169f18",
+  "owner": "vjsakshvh",
+  "repo": "page-cdb9d03705b850f29c695d1e",
+  "title": "UU加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cdb9d03705b850f29c695d1e",
+      "a": "UU加速器",
+      "b": "机场官网线路发布页",
+      "entity": "UU加速器",
+      "brand": "UU加速器",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e0142416a5925a52a7cd92a54a182e3d34c45f953681f726d7f0a16a411e8658",
+      "content": {
+        "primary_entity": "UU加速器",
+        "keyword1": "UU加速器",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕海外网络加速场景提供基础版、旗舰版与团队版三档订阅。基础版每月100GB流量、支持3台设备，适合轻量使用；旗舰版每月300GB流量、支持5台设备，含IPLC专线游戏加速优化；团队版每月1000GB流量、支持20台设备，提供VIP专属高带宽节点与企业定制路由。年付方案可降低月均支出，订阅周期越长单月成本越低。",
+          "AI_HERO_SUBTITLE": "多设备订阅灵活匹配",
+          "AI_HERO_INTRO": "UU加速器面向海外网络访问场景，提供按月与按年订阅的加速服务。套餐按流量额度与设备数量划分，基础版、旗舰版、团队版分别对应轻量浏览、多任务并行与团队协作需求。用户可依据常用设备数与月流量预估选择合适档位，再按客户端文档完成订阅配置。",
+          "AI_VISUAL_TITLE": "三档订阅按需切换",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖轻量到团队",
+          "AI_HIGHLIGHT_2": "年付月均更低更划算",
+          "AI_HIGHLIGHT_3": "多设备同时在线更灵活",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURES_INTRO": "从流量、设备数与使用周期三个维度评估，能更快找到匹配的订阅档位。",
+          "AI_FEATURE_TITLE_1": "按流量额度选档",
+          "AI_FEATURE_TEXT_1": "基础版100GB适合日常浏览，旗舰版300GB适合高频流媒体，团队版1000GB适合多人共享。",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TEXT_2": "3台设备选基础版，5台设备选旗舰版，20台设备选团队版，避免中途升级带来额外成本。",
+          "AI_FEATURE_TITLE_3": "按订阅周期权衡",
+          "AI_FEATURE_TEXT_3": "月付灵活试水，年付基础版¥150、旗舰版¥350、团队版¥850，长期使用年付更省。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLIENTS_INTRO": "不同操作系统对应不同客户端，建议先确认设备类型与系统版本，再参照对应文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月，年付分别¥150、¥350、¥850，按流量与设备数按需选择。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "先确定使用需求，再核对设备适配，最后依客户端文档导入订阅，即可开始使用。",
+          "AI_STEP_TITLE_1": "选定服务档位",
+          "AI_STEP_TEXT_1": "根据月流量预估与同时在线设备数，在基础版、旗舰版、团队版中挑选匹配套餐。",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由器等设备的系统类型，查看对应客户端是否支持当前系统版本。",
+          "AI_STEP_TITLE_3": "导入订阅生效",
+          "AI_STEP_TEXT_3": "依照所选客户端文档完成订阅链接导入，保存后连接节点即可开始加速。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别在哪？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备，并含IPLC专线游戏加速优化与优先工单支持。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付¥150相当于每月约¥12.5，旗舰版年付¥350约¥29.2，团队版年付¥850约¥70.8，均低于对应月付价。",
+          "AI_FAQ_QUESTION_3": "多台设备可以同时用同一个订阅吗？",
+          "AI_FAQ_ANSWER_3": "基础版可3台同时在线，旗舰版5台，团队版20台。超出数量时可考虑升级档位或为额外设备单独订阅。",
+          "AI_FAQ_QUESTION_4": "订阅如何在客户端导入？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅管理入口，粘贴订阅链接并更新，节点列表刷新后选择线路连接即可。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供1000GB月流量、20台设备在线、VIP专属高带宽节点与企业定制路由，适合小团队或多人协作环境。",
+          "AI_CLOSING_TITLE": "选对套餐轻松加速",
+          "AI_CLOSING_TEXT": "按设备数与流量需求锁定档位，依客户端文档导入订阅，即可开始稳定访问海外网络。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zrrrwhy.cn",
+    "host": "zrrrwhy.cn"
+  },
+  "file_hashes": {
+    "index.html": "cab207f0b1729e5ece8408523b783a88e2e325370ac59208ce00903f4fe1c3b9",
+    "sitemap.xml": "517c48c37c19634ea59b732c6f523fd19d221788e782ed8a74d99477d863045a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f8a19808b8325915a1b0d0262f4e2a8aadabc948788aec114ac4f2b23f5ec391",
+    "robots.txt": "196e76310104c404b54ce952cbde445861dc1416fcff68d2becc0d289a16526f",
+    "bf18e65a49516d0b1bb8dc0568e87a88.txt": "4230b35b0b337184e6244b56b6b4cc150284ae64272398d4ada214115871c36f"
+  },
+  "revision": "bb79fe4a43ec469edae0006f24d3b67323edc5c57c64a6d64b6cb644a3f5ca51"
+}
